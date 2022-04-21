@@ -1,14 +1,22 @@
-# app-curriculum
-Curriculum App in [React Native](https://reactnative.dev).
+# Curriculum App
 
-## Initialize new project:
+## Requisitos
+
+- [React](https://reactjs.org)
+- [React Native](https://reactnative.dev)
+
+## Initialize new project
+
 `npm init`
 
-## Initialize existing project:
+## Initialize existing project
+
 `npm install`
 
-## Run project:
+## Run project
+
 `expo start`
 
 ## References
-* [EXPO development environment](https://expo.dev) 
+
+- [EXPO development environment](https://expo.dev)
